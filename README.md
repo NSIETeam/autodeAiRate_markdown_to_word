@@ -1,0 +1,2 @@
+# autodeAiRate_markdown_to_word
+对于ai生成的markdown文件，按照一个按照论文所要求格式调整的标准格式word文件，转换成word文档。在此过程中可以选择程序自动降ai率
