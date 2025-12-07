@@ -1,2 +1,8 @@
 # autodeAiRate_markdown_to_word
 对于ai生成的markdown文件，按照一个按照论文所要求格式调整的标准格式word文件，转换成word文档。在此过程中可以选择程序自动降ai率
+对于如何运行python程序，可以deepseek一下
+将ai生成的markdown代码保存在一个文件中，后缀为md
+写一个按照标准要求调整过的word文档
+在终端中运行main.py
+依次选择ai生成的markdown、标准格式word文档以及要保存的位置
+程序完毕
